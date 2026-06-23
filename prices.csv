@@ -3,3 +3,4 @@ run_date,best_price_cny,origin_dest,airline,routing,baggage,platform,vs_dec_benc
 2026-06-17,NA,HKG-KIX,NA,NA,NA,全平台403未取到,NA,是
 2026-06-19,NA,HKG-KIX,多家(HKE/MM/HB等),直飞,NA,全平台403未取到(搜索摘要:12/20-21≈HK$2547),偏高,是
 2026-06-21,NA,HKG-KIX,多家(HKE/HB/MM等),直飞,NA,全平台403未取到(HKE Super Sale仅至9月;估算12/23-24≈CNY3200-4600),偏高,是
+2026-06-23,NA,HKG-KIX,多家(HKE/MM/HB等),直飞,不含(廉航裸价),全平台403未取到(Peach冬季班表已开售覆盖12/24;估算CNY3200-4600;HKE年末促销不覆盖12/24去程),偏高,是
